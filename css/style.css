@@ -1,0 +1,12 @@
+ul.sns {
+    font-size: 2.5em;
+    list-style: none;
+}
+
+.sns li#twitter i {
+    color: #00a2f9;
+}
+
+.sns li#mail i {
+    font-size: .7em;
+}
