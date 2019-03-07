@@ -5,18 +5,18 @@
     <link>https://ngmsh.github.io/</link>
     <description>Recent content on ニガムシカミツブス</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Feb 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 02:54:54 +0900</lastBuildDate>
     
 	<atom:link href="https://ngmsh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>これまでの活動</title>
-      <link>https://ngmsh.github.io/past/</link>
-      <pubDate>Thu, 07 Feb 2019 22:00:00 +0900</pubDate>
+      <title>「ニガムシカミツブス」とは</title>
+      <link>https://ngmsh.github.io/about/</link>
+      <pubDate>Wed, 12 Dec 2018 02:54:54 +0900</pubDate>
       
-      <guid>https://ngmsh.github.io/past/</guid>
-      <description>これまでの活動 キャンディプロジェクト第八回舞台公演 『戦争と豚―変奏 白痴×悪童日記―』 翻案・脚本・演出：キャンディ江口 原作：坂口安吾『白痴』／</description>
+      <guid>https://ngmsh.github.io/about/</guid>
+      <description>WHAT? 「ニガムシカミツブス」は、演出家・役者であるタローの個人プロジェクトです。 以前、仲間と一緒に立ち上げたプロジェクトから名前を部分的に流用し</description>
     </item>
     
     <item>
@@ -38,12 +38,12 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://ngmsh.github.io/about/</link>
-      <pubDate>Wed, 12 Dec 2018 02:54:54 +0900</pubDate>
+      <title>これまでの活動</title>
+      <link>https://ngmsh.github.io/past/</link>
+      <pubDate>Thu, 07 Feb 2019 22:00:00 +0900</pubDate>
       
-      <guid>https://ngmsh.github.io/about/</guid>
-      <description>WHO? 「ニガムシカミツブス」は、演出家・役者であるタローの個人プロジェクトです。 以前、仲間と一緒に立ち上げたプロジェクトから名前を部分的に流用し</description>
+      <guid>https://ngmsh.github.io/past/</guid>
+      <description>これまでの活動 キャンディプロジェクト第八回舞台公演 『戦争と豚―変奏 白痴×悪童日記―』 翻案・脚本・演出：キャンディ江口 原作：坂口安吾『白痴』／</description>
     </item>
     
   </channel>
