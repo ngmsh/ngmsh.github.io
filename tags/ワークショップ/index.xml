@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ワークショップ on ニガムシカミツブス</title>
+    <link>https://ngmsh.github.io/tags/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/</link>
+    <description>Recent content in ワークショップ on ニガムシカミツブス</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Sep 2019 01:36:26 +0900</lastBuildDate>
+    
+	<atom:link href="https://ngmsh.github.io/tags/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>戯曲分析WS</title>
+      <link>https://ngmsh.github.io/post/ws-analysis-scripts/</link>
+      <pubDate>Thu, 19 Sep 2019 01:36:26 +0900</pubDate>
+      
+      <guid>https://ngmsh.github.io/post/ws-analysis-scripts/</guid>
+      <description>ニガムシカミツブス式戯曲読解ワークショップ この文書はなんのためのもの？ * 誰のためのものですか？ 台本をもらって「家で読んでこい」「プランを立て</description>
+    </item>
+    
+  </channel>
+</rss>
