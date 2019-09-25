@@ -1,13 +1,18 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 @font-face {
     font-family: 'KaisoNextB';
     src: url('/fonts/Kaiso-Next-B.otf') format('opentype');
 }
 
-* {
-    font-family: 'KaisoNextB';
+/** {
+    font-family: 'Noto Sans Japanese', sans-serif';
+}*/
+
+h1 {
+    font-family: "KaisoNextB";
 }
 
 .container p,
 .container ul li {
-    font-family: 'serif';
+    font-family: 'serif, sans-serif';
 }
