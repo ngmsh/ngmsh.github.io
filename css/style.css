@@ -3,10 +3,34 @@ ul.sns {
     list-style: none;
 }
 
+ul.annotation li, li.annotation {
+    list-style-type: none;
+    font-size: .8em;
+}
+ul.annotation li:before {
+    content: "※ ";
+}
+
 .sns li#twitter i {
     color: #00a2f9;
 }
 
 .sns li#mail i {
     font-size: .7em;
+}
+
+table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 2em;
+}
+
+table td, table th {
+    border-bottom: solid 2px #ddd;
+    padding: .7em 1.5em
+}
+
+table td:first-child {
+    font-weight: bold;
 }
