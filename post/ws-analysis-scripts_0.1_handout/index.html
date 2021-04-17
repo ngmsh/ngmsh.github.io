@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title></title>
-    <link rel="stylesheet" href="../../modules/reveal.js/css/reset.css">
-    <link rel="stylesheet" href="../../modules/reveal.js/css/reveal.css">
-    <link rel="stylesheet" href="../../modules/reveal.js/css/theme/night.css">
+    <link rel="stylesheet" href="../../modules/reveal.js/dist/reset.css">
+    <link rel="stylesheet" href="../../modules/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="../../modules/reveal.js/dist/theme/night.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148583719-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
@@ -271,11 +271,20 @@
         </div>
     </section>
 
-    <script src="../../modules/reveal.js/js/reveal.js"></script>
-    <script src="../../modules/reveal.js/plugin/markdown/marked.js"></script>
+    <script src="../../modules/reveal.js/dist/reveal.js"></script>
+    <script src="../../modules/reveal.js/plugin/markdown/plugin.js"></script>
     <script src="../../modules/reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="../../modules/reveal.js/plugin/highlight/highlight.js"></script>
+    <script src="../../modules/reveal.js/plugin/notes/notes.js"></script>
     <script>
-        Reveal.initialize();
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+        });
     </script>
     
 <script>
